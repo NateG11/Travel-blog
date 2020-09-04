@@ -1,0 +1,1 @@
+We present to you a travel blog materialized in the form of your personal online passport. You can add photos, past trips, and details about a certain restaurant or experience during your trip, and you can share amongst family and friends. We added a map which can show you where your friends or family have visited. 
